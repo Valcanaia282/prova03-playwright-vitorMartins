@@ -17,7 +17,8 @@
     "@faker-js/faker": "^9.9.0",
     "@playwright/test": "1.56.1",
     "playwright": "1.56.1",
-    "sicolo": "^1.0.1"
+    "sicolo": "^1.0.1",
+    "zerostep": "^1.2.1"
   },
   "scripts": {
     "clean": "rimraf ./artifacts && mkdirp ./artifacts",

@@ -1,0 +1,327 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - dialog "cookieconsent" [ref=e2]:
+    - generic [ref=e3]:
+      - text: Utilizamos Cookies e outras tecnologias para otimizar a experiência durante a navegação e personalizar conteúdo. Ao clicar no botão “Aceitar Cookies”, você concorda com a nossa Política de Privacidade e Cookies.
+      - button "learn more about cookies" [ref=e4] [cursor=pointer]: Saiba mais
+    - generic [ref=e5]:
+      - button "deny cookies" [ref=e6] [cursor=pointer]: Recusar Cookies
+      - button "allow cookies" [ref=e7] [cursor=pointer]: Aceitar Cookies
+  - generic [ref=e8]:
+    - banner [ref=e9]:
+      - generic [ref=e10]:
+        - heading [level=1] [ref=e11]:
+          - link "- Useall - Softwares para uma Gestão Inteligente" [ref=e12] [cursor=pointer]:
+            - /url: /
+            - img [ref=e13]
+        - generic [ref=e25]:
+          - navigation [ref=e26]:
+            - list:
+              - listitem [ref=e27]:
+                - link "Home" [ref=e28] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=e29]:
+                - link "A Useall" [ref=e30] [cursor=pointer]:
+                  - /url: /sobre
+              - listitem [ref=e31]:
+                - link "Soluções" [ref=e32] [cursor=pointer]:
+                  - /url: /solucoes
+              - listitem [ref=e33]:
+                - link "Blog" [ref=e34] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=e35]:
+                - link "Histórias de Sucesso" [ref=e36] [cursor=pointer]:
+                  - /url: /depoimentos
+              - listitem [ref=e37]:
+                - link "Contato" [ref=e38] [cursor=pointer]:
+                  - /url: /contato
+          - generic [ref=e39]:
+            - link "Suporte Técnico" [ref=e40] [cursor=pointer]:
+              - /url: /suporte
+            - link "Linkedin" [ref=e41] [cursor=pointer]:
+              - /url: https://br.linkedin.com/company/useall-software-ltda
+              - img [ref=e42]
+            - link "Canal" [ref=e47] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UC6rqwowSBCO1KE84Pyom8Jw
+              - img [ref=e48]
+            - link "Canal" [ref=e53] [cursor=pointer]:
+              - /url: https://www.facebook.com/useall
+              - img [ref=e54]
+    - generic [ref=e60]:
+      - generic [ref=e62]:
+        - heading "Trabalhe na Useall" [level=2] [ref=e63]
+        - paragraph [ref=e64]: Nosso ambiente é propício para a criação e desenvolvimento de soluções que geram qualidade no serviço de nossos clientes.
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - paragraph [ref=e67]:
+            - strong [ref=e68]: Vagas
+            - text: Atuais
+          - generic [ref=e69]:
+            - paragraph [ref=e70]: 1 vaga BANCO DE TALENTOS
+            - paragraph [ref=e71]: "Requisitos:"
+            - generic [ref=e72]:
+              - paragraph [ref=e73]: Cadastre o seu currículo no nosso banco de talentos!
+              - paragraph [ref=e74]
+          - generic [ref=e75]:
+            - paragraph [ref=e76]: 1 vaga VENDEDOR SDR
+            - paragraph [ref=e77]: "Requisitos:"
+            - generic [ref=e78]:
+              - paragraph [ref=e79]:
+                - text: Ser proativo e gostar de aprender;
+                - text: Ser comunicativo e ter boa escrita;
+                - text: Gostar de desafios;
+                - text: Ser resiliente e automotivado;
+                - text: Ser organizado,ter uma boa gestão do tempo;
+                - text: Ter disciplina para seguir o processo comercial;
+                - text: Ser persuasivo;
+                - text: Ter escuta ativa;
+                - text: Se adaptar rápido em diferentes situações;
+                - text: Consciência da importância de manter as ferramentas de CRM constantemente atualizadas.
+              - paragraph [ref=e80]
+              - paragraph [ref=e81]:
+                - strong [ref=e82]: "Responsabilidades:"
+              - paragraph [ref=e83]:
+                - text: Estudar o produto e entender o modelo de negócio do nosso icp;
+                - text: Fazer listas de prospecção fria;
+                - text: Prospectar via telefone e outros canais de comunicação;
+                - text: Qualificar o lead seguindo o script de abordagem, sondagem com método spin e bant;
+                - text: Entender e solucionar as principais objeções de potênciais clientes;
+                - text: Trabalho em equipe na passagem de bastão ao agendar demonstrações para o vendedor mostrar o produto.
+              - paragraph [ref=e84]:
+                - strong [ref=e85]: "Diferênciais:"
+              - paragraph [ref=e86]:
+                - text: Capacidade de trabalhar com alto volume(ligações, atividades e leads);
+                - text: Experiência em prospecção outbound e inbound;
+                - text: Experiência em SaaS e mercado B2B;
+                - text: Conhecimento nas principais metodologias de prospecção;
+                - text: Experiência com a ferramenta Exact Spotter.
+          - generic [ref=e87]:
+            - paragraph [ref=e88]: 1 vaga PROGRAMADOR BACK-END C# SENIOR
+            - paragraph [ref=e89]: "Requisitos:"
+            - generic [ref=e90]:
+              - list [ref=e91]:
+                - listitem [ref=e92]: Curso superior em andamento ou técnico completo nas áreas de Sistemas ou Computação;
+                - listitem [ref=e93]: Experiência ou conhecimento prévio em desenvolvimento web;
+                - listitem [ref=e94]: Visual Studio;
+                - listitem [ref=e95]: C# ou .NET;
+                - listitem [ref=e96]: Banco de dados SQL;
+                - listitem [ref=e97]: Programação OO.
+                - listitem [ref=e98]: Inglês (mínimo leitura)
+                - listitem [ref=e99]: Familiaridade com metodologia Ágil (SCRUM).
+              - paragraph [ref=e100]
+              - paragraph [ref=e101]:
+                - strong [ref=e102]: "Responsabilidades:"
+              - list [ref=e103]:
+                - listitem [ref=e104]:
+                  - paragraph [ref=e105]: Criar novos produtos e desenvolver os produtos existentes melhorando assim a gestão da qualidade das empresas;
+                - listitem [ref=e106]:
+                  - paragraph [ref=e107]: Realizar modelagem de dados para personalizações;
+                - listitem [ref=e108]: Garantir a qualidade de sua implementação através de testes, visando verificar se o programa executa corretamente dentro do especificado e com o desempenho adequado;
+                - listitem [ref=e109]: Visão de Arquitetura, apoiando na especificação técnica e desenho de soluções; Análise e debug de sistemas;
+                - listitem [ref=e110]: Documentar recursos de forma técnica e conceitual.
+                - listitem [ref=e111]: Pesquisar e propor novas metodologias, recursos e ferramentas que melhorem os produtos e processos de desenvolvimento, mantendo a empresa atualizada quanto à evolução de mercado e tecnologia;
+              - paragraph [ref=e112]
+              - paragraph [ref=e113]:
+                - strong [ref=e114]: "Características pessoais:"
+              - paragraph [ref=e115]:
+                - text: . Análise e solução de problemas;
+                - text: . Raciocínio lógico;
+                - text: . Percepção de oportunidades;
+                - text: . Cooperação e comunicação;
+                - text: . Empatia e trabalho em equipe.
+          - generic [ref=e116]:
+            - paragraph [ref=e117]: 1 vaga PROGRAMADOR BACK-END C#
+            - paragraph [ref=e118]: "Requisitos:"
+            - generic [ref=e119]:
+              - paragraph [ref=e120]:
+                - text: "- Curso superior em andamento ou técnico completo nas áreas de Sistemas ou Computação;"
+                - text: "- Experiência ou conhecimento prévio em desenvolvimento web;"
+                - text: "- Visual Studio;"
+                - text: "- C# ou .NET ou Java;"
+                - text: "- Visual Studio,"
+                - text: "- Banco de dados SQL;"
+                - text: "- Programação OO."
+                - text: "- Inglês (mínimo leitura)"
+                - text: "- Familiaridade com metodologia Ágil (SCRUM)."
+              - paragraph [ref=e121]
+              - paragraph [ref=e122]:
+                - strong [ref=e123]: "Responsabilidades:"
+                - text: "- Criar novos produtos e desenvolver os produtos existentes melhorando assim a gestão da qualidade das empresas;"
+                - text: "- Realizar modelagem de dados para personalizações;"
+                - text: "- Garantir a qualidade de sua implementação através de testes, visando verificar se o programa executa corretamente dentro do especificado e com o desempenho adequado;"
+                - text: "- Visão de Arquitetura, apoiando na especificação técnica e desenho de soluções; Análise e debug de sistemas;"
+                - text: "- Documentar recursos de forma técnica e conceitual."
+              - paragraph [ref=e124]
+              - paragraph [ref=e125]:
+                - strong [ref=e126]: "Características pessoais:"
+                - text: . Análise e solução de problemas;
+                - text: . Raciocínio lógico;
+                - text: . Percepção de oportunidades;
+                - text: . Cooperação e comunicação;
+                - text: . Empatia e trabalho em equipe.
+          - generic [ref=e127]:
+            - paragraph [ref=e128]: 1 vaga ANALISTA DE TESTES / TESTER
+            - paragraph [ref=e129]: "Requisitos:"
+            - generic [ref=e130]:
+              - paragraph [ref=e131]:
+                - text: "- Curso superior em andamento ou técnico completo nas áreas de Sistemas ou Computação;"
+                - text: "- Experiência ou conhecimento prévio em desenvolvimento web;"
+                - text: "- Conhecimento em testes e qualidade de software;"
+                - text: "- Conhecimento em ERP;"
+                - text: "- Experiência com Teste ou Suporte Técnico;"
+                - text: "- Familiaridade com metodologia Ágil (SCRUM)."
+              - paragraph [ref=e132]
+              - paragraph [ref=e133]:
+                - strong [ref=e134]: "Responsabilidades:"
+                - text: "- Elaborar os cenários e gerenciar os testes;"
+                - text: "- Definir a abordagem do teste, estimativa de tempo e níveis e ciclos de testes;"
+                - text: "- Executar testes e avaliar riscos e impactos, garantindo qualidade do software;"
+                - text: "- Documentar testes e novidades dos sistemas com foco no cliente;"
+                - text: "- Capacitar-se nas regras de negócio que impactam sua área de atuação."
+              - paragraph [ref=e135]
+              - paragraph [ref=e136]:
+                - strong [ref=e137]: "Características pessoais:"
+                - text: . Análise e solução de problemas;
+                - text: . Raciocínio lógico;
+                - text: . Percepção de oportunidades;
+                - text: . Inglês (técnico) e boa redação;
+                - text: . Cooperação e comunicação;
+                - text: . Empatia e trabalho em equipe.
+              - paragraph [ref=e138]
+          - generic [ref=e139]:
+            - paragraph [ref=e140]: 1 vaga PROGRAMADOR WEB FRONT-END JAVASCRIPT
+            - paragraph [ref=e141]: "Requisitos:"
+            - generic [ref=e142]:
+              - paragraph [ref=e143]:
+                - text: "- Curso superior em andamento ou técnico completo nas áreas de Sistemas ou Computação;"
+                - text: "- Experiência ou conhecimento prévio em desenvolvimento web;"
+                - text: "- Visual Studio;"
+                - text: "- JavaScript, HTML5, CSS3 e React"
+                - text: "- Conhecimento em Banco de Dados SQL;"
+                - text: "- Familiaridade com metodologia Ágil (SCRUM)."
+              - paragraph [ref=e144]
+              - paragraph [ref=e145]:
+                - strong [ref=e146]: "Responsabilidades:"
+                - text: "- Desenvolver código responsivo e fiel às interfaces projetadas pelo UX;"
+                - text: "- Analisar e desenvolver projetos de inovação para melhorar a gestão da qualidade das empresas;"
+                - text: "- Criar novos produtos e realizar manutenção de software garantindo soluções melhores;"
+                - text: "- Executar testes e avaliar riscos e impactos, garantindo qualidade do software;"
+                - text: "- Criar ferramentas, relatórios e interfaces com foco na experiência do cliente."
+              - paragraph [ref=e147]
+              - paragraph [ref=e148]:
+                - strong [ref=e149]: "Características pessoais:"
+                - text: . Análise e solução de problemas;
+                - text: . Raciocínio lógico;
+                - text: . Abordagens de UX Design;
+                - text: . Percepção de oportunidades;
+                - text: . Cooperação e comunicação;
+                - text: . Empatia e trabalho em equipe.
+        - generic [ref=e150]:
+          - paragraph [ref=e151]:
+            - strong [ref=e152]: Envie
+            - text: seu Currículo
+          - group [ref=e154]:
+            - combobox [ref=e157]:
+              - option "BANCO DE TALENTOS" [selected]
+              - option "VENDEDOR SDR"
+              - option "PROGRAMADOR BACK-END C# SENIOR"
+              - option "PROGRAMADOR BACK-END C#"
+              - option "ANALISTA DE TESTES / TESTER"
+              - option "PROGRAMADOR WEB FRONT-END JAVASCRIPT"
+            - textbox "Nome" [ref=e159]: Teste Simples QA
+            - textbox "E-mail" [ref=e161]: simples@testes.com
+            - textbox "Telefone" [ref=e163]: (11)900001111
+            - textbox "Mensagem (opcional)" [ref=e165]
+            - generic [ref=e166]:
+              - generic [ref=e167]: Selecione o arquivo
+              - textbox [disabled] [ref=e168]: Nenhum Arquivo Selecionado
+              - button "Choose File" [active] [ref=e169] [cursor=pointer]
+              - generic [ref=e170]: Selecione um arquivo
+            - button "Enviar" [ref=e172] [cursor=pointer]
+    - contentinfo [ref=e173]:
+      - generic [ref=e175]:
+        - img "Useall - Softwares para uma Gestão Inteligente" [ref=e177]
+        - generic [ref=e179]:
+          - paragraph [ref=e180]: A Useall
+          - link "Quem Somos" [ref=e181] [cursor=pointer]:
+            - /url: /sobre
+          - link "Histórias de Sucesso" [ref=e182] [cursor=pointer]:
+            - /url: /depoimentos
+          - link "Blog" [ref=e183] [cursor=pointer]:
+            - /url: /blog
+          - link "Trabalhe Conosco" [ref=e184] [cursor=pointer]:
+            - /url: /trabalhe
+          - link "Política de Privacidade" [ref=e185] [cursor=pointer]:
+            - /url: https://conteudo.useall.com.br/aviso-de-privacidade-de-dados-lgpd-useall-software#rd-column-kwdleqfr
+          - paragraph [ref=e186]: Precisa de ajuda?
+          - link "Contato" [ref=e187] [cursor=pointer]:
+            - /url: /contato
+          - link "Suporte" [ref=e188] [cursor=pointer]:
+            - /url: /suporte
+        - generic [ref=e189]:
+          - paragraph [ref=e190]: Soluções
+          - link "Setor Elétrico" [ref=e191] [cursor=pointer]:
+            - /url: /eletrico
+          - link "Indústria e Serviços" [ref=e192] [cursor=pointer]:
+            - /url: /industria
+          - link "Comércio" [ref=e193] [cursor=pointer]:
+            - /url: /comercio
+          - link "Gestão da Qualidade" [ref=e194] [cursor=pointer]:
+            - /url: http://www.doo.com.br/
+          - link "Micro e Pequenas Empresas" [ref=e195] [cursor=pointer]:
+            - /url: http://gestaoizy.com.br/
+        - blockquote [ref=e198]:
+          - link "Useall" [ref=e199] [cursor=pointer]:
+            - /url: https://www.facebook.com/useall
+      - generic [ref=e200]:
+        - generic [ref=e201]:
+          - img [ref=e202]
+          - generic [ref=e207]:
+            - heading "Criciúma" [level=4] [ref=e208]
+            - paragraph [ref=e209]:
+              - text: Rua Visconde de Cairú, 630
+              - text: Bairro Santa Bárbara
+              - text: 88804-320 / Criciúma - SC
+            - paragraph [ref=e210]:
+              - link "(48) 3411-0600" [ref=e211]:
+                - /url: "#"
+              - link "(48) 99147-0351" [ref=e212]:
+                - /url: https://api.whatsapp.com/send?1=pt_BR&phone=5548991470351&text=Olá, vim pelo site e gostaria de fazer uma cotação.
+            - paragraph [ref=e213]: (Comercial das Indústrias)
+            - paragraph
+        - generic [ref=e214]:
+          - img [ref=e215]
+          - generic [ref=e220]:
+            - heading "Florianópolis" [level=4] [ref=e221]
+            - paragraph [ref=e222]:
+              - text: Rua Victor Meirelles, 600
+              - text: Salas 903/905 - Bairro Campinas
+              - text: 88101-170 / São José - SC
+            - paragraph [ref=e223]:
+              - link "(48) 3248-7734" [ref=e224]:
+                - /url: "#"
+              - link "(48) 99168-2865" [ref=e225]:
+                - /url: "#"
+        - generic [ref=e226]:
+          - img [ref=e227]
+          - generic [ref=e232]:
+            - heading "Sorocaba" [level=4] [ref=e233]
+            - paragraph [ref=e234]:
+              - text: Av. Rudolf Dafferner, 400
+              - text: "- Nova York 206 - Condomínio Praça Maior - Boa Vista, Sorocaba"
+              - text: SP, 18085-005
+            - paragraph [ref=e235]:
+              - link "(15) 3418-0100" [ref=e236]:
+                - /url: "#"
+              - link "(15) 99144-9939" [ref=e237]:
+                - /url: "#"
+      - generic [ref=e239]:
+        - generic [ref=e240]: Useall. 2025. Todos os Direitos Reservados
+        - generic [ref=e241]:
+          - link "BurnWeb":
+            - /url: http://www.burnweb.com.br
+            - img [ref=e242] [cursor=pointer]
+          - generic [ref=e248]: Desenvolvido por
+```
